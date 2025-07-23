@@ -21,8 +21,8 @@
 #### Cabeçalho
 - **Disciplina:** Sistemas Operacionais 
 - **Curso**: Tecnologia em Análise e Desenvolvimento de Sistemas
-- **Aluno:** [Robson Alves de Alencastro]
-- **Data da Visita:** [27/06/2025]
+- **Aluno:** Robson Alves de Alencastro
+- **Data da Visita:** 27/06/2025
 - **Local Visitado:** Reitoria do IFRN – Diretoria de Gestão da Tecnologia da Informação (DIGTI)
 
 ---
